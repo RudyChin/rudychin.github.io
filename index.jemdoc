@@ -1,0 +1,72 @@
+==Ting-Wu Rudy Chin (金廷武)
+
+~~~
+{}{img_left}{images/me.jpg}{alt text}{146}{160}
+Ph.D. Candidate,\n [https://www.ece.cmu.edu/ Electrical and Computer Engineering], \n[https://www.cmu.edu/ Carnegie Mellon University]\n\n
+E-mail: tingwuc \[AT\] cmu \[DOT\] edu\n
+
+Affiliation: \[[https://enyac.org EnyAC]\] \[[https://www.andrew.cmu.edu/user/gaurij/Group.html OPAL]\]\n
+
+[https://scholar.google.com/citations?user=olo9cqYAAAAJ&hl Google Scholar]
+~~~
+
+== About me
+I am a fourth-year Ph.D. student co-advised by [https://users.ece.cmu.edu/~dianam/ Prof. Diana Marculescu] and [https://www.andrew.cmu.edu/user/gaurij/ Prof. Gauri Joshi]. My research interests include /Model Compression/, /Neural Architecture Search/ and /Trasnsfer Learning/ for /Deep ConvNets/.\n\n 
+
+Before joining CMU, I received the B.S. and M.S. degrees in computer science from National Chiao Tung University ([https://www.nctu.edu.tw/en NCTU]), in 2015 and 2017, respectively.
+
+== Industrial Experiences
+
+~~~
+{}{img_left}{images/fairlogo.jpg}{alt text}{146}{85}{}
+:{Facebook AI Research}
+2020.05 - 2020.08\n
+Research Intern\n
+Mentors: Ari Morcos\n
+Project: On the Transferability of Channel Optimization
+~~~
+
+~~~
+{}{img_left}{images/frllogo.png}{alt text}{146}{140}{}
+:{Facebook Reality Labs}
+2019.05 - 2019.08\n
+Research Intern\n
+Mentors: Pierce Chuang and Vikas Chandra\n
+Project: One Weight Bitwidth to Rule Them All
+~~~
+
+~~~
+{}{img_left}{images/msrlogo.jpg}{alt text}{146}{160}{}
+:{Microsoft Research}
+2018.05 - 2018.08\n
+Research Intern\n
+Mentors: Cha Zhang\n
+Project: Efficient Model Compression with Learned Global Ranking
+~~~
+
+=== First-authored Peer-reviewed Publications
+- /[https://arxiv.org/abs/2002.02998 Renofeation: A Simple Transfer Learning Method for Improved Adversarial Robustness]/ \[[https://github.com/cmu-enyac/Renofeation Code]\]\n *Ting-Wu Chin*, Cha Zhang, Diana Marculescu\n [https://fadetrcv.github.io/2021/ The IEEE Conference on Computer Vision and Pattern Recognition Workshops] (*CVPRW'21*)
+- /[https://arxiv.org/abs/2008.09916 One Weight Bitwidth to Rule Them All]/\n *Ting-Wu Chin*, Pierce Chuang, Vikas Chandra, Diana Marculescu\n [https://embeddedvisionworkshop.wordpress.com/2021/01/01/2020/ European Conference on Computer Vision Workshops] (*ECCVW'20*) (*Best Paper Awards*)
+- /[https://arxiv.org/abs/1904.12368v2 Towards Efficient Model Compression via Learned Global Ranking]/ \[[https://github.com/cmu-enyac/LeGR Code]\]\n *Ting-Wu Chin*, Ruizhou Ding, Cha Zhang, Diana Marculescu\n [http://cvpr2020.thecvf.com/ The IEEE Conference on Computer Vision and Pattern Recognition] (*CVPR'20*) (*Oral, 5% Acceptance Rate*)
+- /[https://mlsys.org/Conferences/2019/doc/2019/209.pdf AdaScale: Towards Real-time Video Object Detection using Adaptive Scaling]/ \[[https://github.com/cmu-enyac/AdaScale Code]\]\n *Ting-Wu Chin*, Ruizhou Ding, Diana Marculescu\n [https://mlsys.org/Conferences/2019/ Conference on Machine Learning and Systems] (*MLSys'19*) (*Oral, 17% Acceptance Rate*)
+- /[https://github.com/cmu-enyac/AdaScale Domain-Specific Approximation for Object Detection]/\n *Ting-Wu Chin*, Chia-Lin Yu, Matthew Halpern, Hasan Genc, Shiao-Li Tsao, Vijay Janapa Reddi\n [https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=8301101 *IEEE Micro*, SI: Autonomous Computing]
+
+=== First-authored Pre-prints and Non-archival Venues
+- /Width Transfer: On the (in)variance of Width Optimization/\n *Ting-Wu Chin*, Diana Marculescu, Ari S. Morcos\n Abridged (4 pages) versions were accepted at *ICLR 2021 NAS Workshop [https://sites.google.com/view/nas2021/home?authuser=0 NAS 2021]*
+- /[https://arxiv.org/abs/2007.11752 PareCO: Pareto-aware Channel Optimization for Slimmable Neural Networks]/ \[[https://github.com/cmu-enyac/PareCO Code]\]\n *Ting-Wu Chin*, Ari S. Morcos, Diana Marculescu\n Abridged (4 pages) versions were accepted at *ICML 2020 Workshops [https://sites.google.com/view/deploymonitormlsystems DMMLSys] and [https://realworldml.github.io/ RealML]*
+- /[https://arxiv.org/abs/1810.00518 Layer-compensated Pruning for Resource-constrained Convolutional Neural Networks]/ \[[https://github.com/cmu-enyac/LeGR Code]\]\n *Ting-Wu Chin*, Cha Zhang, Diana Marculescu\n An abridged (4 pages) version was accepted at *NeurIPS 2018 Workshop [https://sites.google.com/view/nips-2018-on-device-ml MLPCD 2]* (*Oral*)\n /It is later improved and become our CVPR work "LeGR"/
+
+=== Co-authored Peer-reviewed Publications
+- /[http://openaccess.thecvf.com/content_CVPR_2019/papers/Ding_Regularizing_Activation_Distribution_for_Training_Binarized_Deep_Networks_CVPR_2019_paper.pdf Regularizing Activation Distribution for Training Binarized Deep Networks]/\n Ruizhou Ding, *Ting-Wu Chin*, Diana Marculescu, Zeye Liu\n [https://cvpr2019.thecvf.com/ The IEEE Conference on Computer Vision and Pattern Recognition] (*CVPR'19*)
+- /[https://arxiv.org/abs/1904.02835 FLightNNs: Lightweight Quantized Deep Neural Networks for Fast and Accurate Inference]/\n Ruizhou Ding, Zeye Liu, *Ting-Wu Chin*, Diana Marculescu, R. D. (Shawn) Blanton\n [https://dl.acm.org/doi/proceedings/10.1145/3316781 ACM/IEEE Design Automation Conference] (*DAC'19*)
+- /[https://arxiv.org/abs/1901.07012 Understanding the Impact of Label Granularity on CNN-based Image Classification]/\n Zhuo Chen, Ruizhou Ding, *Ting-Wu Chin*, Diana Marculescu\n [http://www.bigdatalab.ac.cn/~dsbda/2018/ *ICDM 2018 Workshop* on Data Science and Big Data Analytics]
+- /[https://arxiv.org/abs/1901.07012 Designing Adaptive Neural Networks for Energy-Constrained Image Classification]/\n Dimitrios Stamoulis, *Ting-Wu Chin*, Anand Krishnan Prakash, Haocheng Fang, Sribhuvan Sajja, Mitchell Bognar, Diana Marculescu\n [https://dl.acm.org/doi/proceedings/10.1145/3240765 Proceedings of the 37th International Conference on Computer-Aided Design] (*ICCAD'18*)
+
+=== Honors and Awards
+- Qualcomm Innovation Fellowship 2020 Finalist
+- David Barakat and LaVerne Owen-Barakat Fellowship, Carnegie Institute of Technology
+- 3rd Place for Siemens FutureMakers Challenge at CMU
+
+=== Service
+Reviewer for /NeurIPS'20/, /ICML'20/, /IEEE Journal of Selected Topics in Signal Processing/, /NeurIPS'18 Workshop CDNNRIA/\n
+Sub-reviewer for /MLSys'20/\n

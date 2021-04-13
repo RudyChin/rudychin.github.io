@@ -10,7 +10,8 @@ body {
 	background: white;
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
-	margin: 0;
+    max-width: 850px;
+	margin: auto;
 }
 
 #layout-menu {
