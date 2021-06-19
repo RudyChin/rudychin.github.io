@@ -45,6 +45,8 @@ Project: Efficient Model Compression with Learned Global Ranking
 ~~~
 
 === First-authored Peer-reviewed Publications
+- /[https://rudychin.github.io Joslim: Joint Widths and Weights Optimization for Slimmable Neural Networks]/\n *Ting-Wu Chin*, Ari S. Morcos, Diana Marculescu\n [https://2021.ecmlpkdd.org/ European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases] (*ECML-PKDD'21*) (*21% Acceptance Rate*)\n
+Abridged (4 pages) versions were accepted at *ICML 2020 Workshops [https://sites.google.com/view/deploymonitormlsystems DMMLSys] and [https://realworldml.github.io/ RealML]*
 - /[https://openaccess.thecvf.com/content/CVPR2021W/ECV/html/Chin_Width_Transfer_On_the_Invariance_of_Width_Optimization_CVPRW_2021_paper.html Width Transfer: On the (in)variance of Width Optimization]/\n *Ting-Wu Chin*, Diana Marculescu, Ari S. Morcos\n [https://sites.google.com/view/ecv2021/home?authuser=0 The IEEE Conference on Computer Vision and Pattern Recognition Workshops] (*CVPRW'21: Efficient Deep Learning for Computer Vision*)\n Abridged (4 pages) versions were accepted at *ICLR 2021 Workshops [https://sites.google.com/view/nas2021/home?authuser=0 NAS 2021]*
 - /[https://openaccess.thecvf.com/content/CVPR2021W/TCV/html/Chin_Renofeation_A_Simple_Transfer_Learning_Method_for_Improved_Adversarial_Robustness_CVPRW_2021_paper.html Renofeation: A Simple Transfer Learning Method for Improved Adversarial Robustness]/ \[[https://github.com/cmu-enyac/Renofeation Code]\]\n *Ting-Wu Chin*, Cha Zhang, Diana Marculescu\n [https://fadetrcv.github.io/2021/ The IEEE Conference on Computer Vision and Pattern Recognition Workshops] (*CVPRW'21: Fair, Data Efficient and Trusted Computer Vision*)
 - /[https://link.springer.com/content/pdf/10.1007%2F978-3-030-68238-5_7.pdf One Weight Bitwidth to Rule Them All]/\n *Ting-Wu Chin*, Pierce Chuang, Vikas Chandra, Diana Marculescu\n [https://link.springer.com/chapter/10.1007%2F978-3-030-68238-5_7 European Conference on Computer Vision Workshops] (*ECCVW'20: Embedded Vision Workshop*) (*Best Paper Awards*)
@@ -53,7 +55,6 @@ Project: Efficient Model Compression with Learned Global Ranking
 - /[https://arxiv.org/abs/1810.02010 Domain-Specific Approximation for Object Detection]/\n *Ting-Wu Chin*, Chia-Lin Yu, Matthew Halpern, Hasan Genc, Shiao-Li Tsao, Vijay Janapa Reddi\n [https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=8301101 *IEEE Micro*, SI: Autonomous Computing]
 
 === First-authored Pre-prints and Non-archival Venues
-- /[https://arxiv.org/abs/2007.11752 PareCO: Pareto-aware Channel Optimization for Slimmable Neural Networks]/ \[[https://github.com/cmu-enyac/PareCO Code]\]\n *Ting-Wu Chin*, Ari S. Morcos, Diana Marculescu\n Abridged (4 pages) versions were accepted at *ICML 2020 Workshops [https://sites.google.com/view/deploymonitormlsystems DMMLSys] and [https://realworldml.github.io/ RealML]*
 - /[https://arxiv.org/abs/1810.00518 Layer-compensated Pruning for Resource-constrained Convolutional Neural Networks]/ \[[https://github.com/cmu-enyac/LeGR Code]\]\n *Ting-Wu Chin*, Cha Zhang, Diana Marculescu\n An abridged (4 pages) version was accepted at *NeurIPS 2018 Workshop [https://sites.google.com/view/nips-2018-on-device-ml MLPCD 2]* (*Oral*)\n /It is later improved and become our CVPR work "LeGR"/
 
 === Co-authored Peer-reviewed Publications
