@@ -2,8 +2,8 @@
 
 ~~~
 {}{img_left}{images/me.jpg}{alt text}{146}{160}
-Ph.D. Candidate,\n [https://www.ece.cmu.edu/ Electrical and Computer Engineering], \n[https://www.cmu.edu/ Carnegie Mellon University]\n\n
-E-mail: tingwuc \[AT\] cmu \[DOT\] edu\n
+Ph.D.,\n [https://www.ece.cmu.edu/ Electrical and Computer Engineering], \n[https://www.cmu.edu/ Carnegie Mellon University]\n\n
+E-mail: tingwuc \[AT\] alumni \[DOT\] cmu \[DOT\] edu\n
 
 Affiliation: \[[https://enyac.org EnyAC]\] \[[https://www.andrew.cmu.edu/user/gaurij/Group.html OPAL]\]\n
 
@@ -11,7 +11,7 @@ Affiliation: \[[https://enyac.org EnyAC]\] \[[https://www.andrew.cmu.edu/user/ga
 ~~~
 
 == About me
-I am a fourth-year Ph.D. student co-advised by [https://users.ece.cmu.edu/~dianam/ Prof. Diana Marculescu] and [https://www.andrew.cmu.edu/user/gaurij/ Prof. Gauri Joshi]. My research interests include /Model Compression/, /Neural Architecture Search/ and /Trasnsfer Learning/ for /Deep ConvNets/.\n\n 
+I received my Ph.D. from CMU ECE co-advised by [https://users.ece.cmu.edu/~dianam/ Prof. Diana Marculescu] and [https://www.andrew.cmu.edu/user/gaurij/ Prof. Gauri Joshi]. My research interests include /Model Compression/, /Neural Architecture Search/ and /Trasnsfer Learning/ for /Deep ConvNets/.\n\n 
 
 Before joining CMU, I received the B.S. and M.S. degrees in computer science from National Chiao Tung University ([https://www.nctu.edu.tw/en NCTU]), in 2015 and 2017, respectively.
 
@@ -20,7 +20,7 @@ Before joining CMU, I received the B.S. and M.S. degrees in computer science fro
 ~~~
 {}{img_left}{images/fairlogo.jpg}{alt text}{146}{85}{}
 :{Facebook AI Research}
-2020.05 - 2020.08\n
+2020.05 - 2020.12\n
 Research Intern\n
 Mentors: Ari Morcos\n
 Project: On the Transferability of Channel Optimization
@@ -61,6 +61,11 @@ Abridged (4 pages) versions were accepted at *ICML 2020 Workshops [https://sites
 - /[https://arxiv.org/abs/1901.07012 Designing Adaptive Neural Networks for Energy-Constrained Image Classification]/\n Dimitrios Stamoulis, *Ting-Wu Chin*, Anand Krishnan Prakash, Haocheng Fang, Sribhuvan Sajja, Mitchell Bognar, Diana Marculescu\n [https://dl.acm.org/doi/proceedings/10.1145/3240765 Proceedings of the 37th International Conference on Computer-Aided Design] (*ICCAD'18*)
 
 === Honors and Awards
+- Best paper award at CVPR 2021 Workshop on Fair, Data Efficient, and Trusted Computer Vision
+- Outstanding reviewers for CVPR 2021
+- Best paper award at ECCV 2020 Embedded Vision Workshop 
+- Top 10% reviewers for NeurIPS 2020
+- Top 33% reviewers for ICML 2020
 - Qualcomm Innovation Fellowship 2020 Finalist
 - David Barakat and LaVerne Owen-Barakat Fellowship, Carnegie Institute of Technology
 - 3rd Place for Siemens FutureMakers Challenge at CMU
