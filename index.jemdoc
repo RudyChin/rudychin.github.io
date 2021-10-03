@@ -11,11 +11,21 @@ Affiliation: \[[https://enyac.org EnyAC]\] \[[https://www.andrew.cmu.edu/user/ga
 ~~~
 
 == About me
+I am a quantitative researcher at Citadel Securities in Chicago.
+
 I received my Ph.D. from CMU ECE co-advised by [https://users.ece.cmu.edu/~dianam/ Prof. Diana Marculescu] and [https://www.andrew.cmu.edu/user/gaurij/ Prof. Gauri Joshi]. My research interests include /Model Compression/, /Neural Architecture Search/ and /Trasnsfer Learning/ for /Deep ConvNets/.\n\n 
 
 Before joining CMU, I received the B.S. and M.S. degrees in computer science from National Chiao Tung University ([https://www.nctu.edu.tw/en NCTU]), in 2015 and 2017, respectively.
 
 == Industrial Experiences
+
+~~~
+{}{img_left}{images/citseclogo.jpeg}{alt text}{146}{85}{}
+:{Citadel Securities}
+2021.07 - present\n
+Quantitative Researcher\n
+Applying machine learning and statistical techniques to model markets.
+~~~
 
 ~~~
 {}{img_left}{images/fairlogo.jpg}{alt text}{146}{85}{}
@@ -45,7 +55,7 @@ Project: Efficient Model Compression with Learned Global Ranking
 ~~~
 
 === First-authored Peer-reviewed Publications
-- /[https://arxiv.org/pdf/2007.11752.pdf Joslim: Joint Widths and Weights Optimization for Slimmable Neural Networks]/ \[[https://github.com/cmu-enyac/Joslim Code]\]\n *Ting-Wu Chin*, Ari S. Morcos, Diana Marculescu\n [https://2021.ecmlpkdd.org/ European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases] (*ECML-PKDD'21*) (*21% Acceptance Rate*)\n
+- /[https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_88.pdf Joslim: Joint Widths and Weights Optimization for Slimmable Neural Networks]/ \[[https://github.com/cmu-enyac/Joslim Code]\]\n *Ting-Wu Chin*, Ari S. Morcos, Diana Marculescu\n [https://2021.ecmlpkdd.org/ European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases] (*ECML-PKDD'21*) (*21% Acceptance Rate*)\n
 Abridged (4 pages) versions were accepted at *ICML 2020 Workshops [https://sites.google.com/view/deploymonitormlsystems DMMLSys] and [https://realworldml.github.io/ RealML]*
 - /[https://openaccess.thecvf.com/content/CVPR2021W/ECV/html/Chin_Width_Transfer_On_the_Invariance_of_Width_Optimization_CVPRW_2021_paper.html Width Transfer: On the (in)variance of Width Optimization]/\n *Ting-Wu Chin*, Diana Marculescu, Ari S. Morcos\n [https://sites.google.com/view/ecv2021/home?authuser=0 The IEEE Conference on Computer Vision and Pattern Recognition Workshops] (*CVPRW'21: Efficient Deep Learning for Computer Vision*)\n Abridged (4 pages) versions were accepted at *ICLR 2021 Workshops [https://sites.google.com/view/nas2021/home?authuser=0 NAS 2021]*
 - /[https://openaccess.thecvf.com/content/CVPR2021W/TCV/html/Chin_Renofeation_A_Simple_Transfer_Learning_Method_for_Improved_Adversarial_Robustness_CVPRW_2021_paper.html Renofeation: A Simple Transfer Learning Method for Improved Adversarial Robustness]/ \[[https://github.com/cmu-enyac/Renofeation Code]\]\n *Ting-Wu Chin*, Cha Zhang, Diana Marculescu\n [https://fadetrcv.github.io/2021/ The IEEE Conference on Computer Vision and Pattern Recognition Workshops] (*CVPRW'21: Fair, Data Efficient and Trusted Computer Vision*) (*Best Paper Award*)
